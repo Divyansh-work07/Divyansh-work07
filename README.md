@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=HELLO%2C+I'M+DIVYANSH+KR;CODENAME%3A+NOVACIPHER;SOFTWARE+DEVELOPER;AI+%2B+FULL+STACK+%2B+MOBILE;BUILDING+THE+FUTURE;ENTERING+THE+NOVA..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=HELLO%2C+I'M+DIVYANSH+KR;CODENAME%3A+NOVACIPHER;SOFTWARE+DEVELOPER;AI+%2B+FULL+STACK+%2B;BUILDING+THE+FUTURE;ENTERING+THE+NOVA..." />
 
 <br><br>
 
@@ -14,10 +14,6 @@
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="https://github.com/Divyansh-work07">
-<img src="https://img.shields.io/badge/PORTFOLIO-030712?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/>
 </a>
 
 <br><br>
