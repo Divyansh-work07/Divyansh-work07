@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=HELLO%2C+I'M+DIVYANSH+KR;CODENAME%3A+NOVACIPHER;SOFTWARE+DEVELOPER;AI+%2B+FULL+STACK+%2B;BUILDING+THE+FUTURE;ENTERING+THE+NOVA..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=HELLO%2C+I'M+DIVYANSH+KHOBRAGADE;CODENAME%3A+NOVACIPHER;SOFTWARE+DEVELOPER;AI+%2B+Frontend+Developer;BUILDING+THE+FUTURE;ENTERING+THE+NOVA..." />
 
 <br><br>
 
