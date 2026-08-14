@@ -1,49 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=NOVA%20CIPHER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DIVYANSH%20KR%20%2F%2F%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=16&color=0:030712,40:111827,70:6D28D9,100:00E5FF" width="100%"/>
+<!-- ===================== HERO ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=NOVA%20CIPHER&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=DIVYANSH%20KR%20%2F%2F%20MECHATRONICS%20ENGINEER&descAlignY=57&descSize=17&animation=fadeIn&color=0:020617,35:07111F,65:0B2942,100:00D9FF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=HELLO%2C+I'M+DIVYANSH+KHOBRAGADE;CODENAME%3A+NOVACIPHER;SOFTWARE+DEVELOPER;AI+%2B+Frontend+Developer;BUILDING+THE+FUTURE;ENTERING+THE+NOVA..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=INITIALIZING+NOVACIPHER...;SYSTEM+ONLINE.;MECHATRONICS+ENGINEER+%7C+SOFTWARE+DEVELOPER;AI+%7C+ROBOTICS+%7C+AUTOMATION;HARDWARE+%C3%97+SOFTWARE+%C3%97+INTELLIGENCE;WELCOME+TO+THE+NOVA+SYSTEM." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Divyansh-work07&label=SYSTEM+VISITORS&color=00D9FF&style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://github.com/Divyansh-work07">
-<img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Divyansh-work07&label=PROFILE+VISITORS&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ◈ SYSTEM.INIT()
+# ◉ J.A.R.V.I.S // SYSTEM BOOT
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                    N O V A   C I P H E R                     │
-│                                                              │
-│                  DIVYANSH KR // DEVELOPER                    │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  CODENAME     :: NOVACIPHER                                  │
-│  STATUS       :: ONLINE                                      │
-│  MODE         :: BUILDING                                    │
-│  MISSION      :: CREATE                                      │
-│  LOCATION     :: INDIA 🇮🇳                                   │
-│                                                              │
-│  AI           :: █████████████████░░░  ACTIVE                │
-│  FULL STACK   :: ██████████████████░░  ACTIVE                │
-│  MOBILE       :: ████████████████░░░░  ACTIVE                │
-│  CLOUD        :: ████████████░░░░░░░░  LEARNING              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                    NOVA CIPHER OS                            ║
+║                                                              ║
+║              N E U R A L   S Y S T E M                       ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  USER IDENTIFICATION                                         ║
+║  ──────────────────────────────────────────────────────────  ║
+║                                                              ║
+║  NAME        :: DIVYANSH KR                                  ║
+║  CODENAME    :: NOVACIPHER                                   ║
+║  CLASS       :: MECHATRONICS ENGINEER                        ║
+║  SECONDARY   :: SOFTWARE DEVELOPER                           ║
+║  SPECIALTY   :: AI / ROBOTICS / AUTOMATION                   ║
+║                                                              ║
+║  SYSTEM STATUS                                                ║
+║  ──────────────────────────────────────────────────────────  ║
+║                                                              ║
+║  CORE        :: ONLINE     ████████████████████ 100%         ║
+║  AI          :: ACTIVE     █████████████████░░░  90%         ║
+║  ROBOTICS    :: ACTIVE     ████████████████░░░░  80%         ║
+║  SOFTWARE    :: ACTIVE     ██████████████████░░  90%         ║
+║  AUTOMATION  :: ONLINE     ███████████████░░░░░  75%         ║
+║                                                              ║
+║  DIRECTIVE   :: ENGINEER THE FUTURE                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
