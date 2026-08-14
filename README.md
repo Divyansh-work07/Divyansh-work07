@@ -1,6 +1,3 @@
-Absolutely. For a **Tony-Stark/JARVIS-inspired** feel, I'll make it sleek rather than copying Marvel assets directly: dark HUD aesthetic, cyan/red-orange accents, reactor-style visuals, system boot screens, animated typing, tech matrix, and your NovaCipher identity.
-
-Paste this entire thing into `README.md`.
 
 ````markdown
 <div align="center">
@@ -414,8 +411,3 @@ ACCESS SYSTEM →
 </div>
 ```
 
-### ⚠️ One thing before you paste it
-
-The **Tony Stark/JARVIS vibe is intentional**, but I avoided using Marvel/Iron Man images, logos, or copyrighted UI assets. This gives you the same **dark futuristic engineering/HUD atmosphere** while keeping the profile distinctly **NovaCipher**.
-
-Also, the `PROJECT 01–04` links currently point to your GitHub profile. Once you have actual repositories, replace those links with the individual project URLs.
