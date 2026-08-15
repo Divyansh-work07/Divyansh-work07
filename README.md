@@ -46,7 +46,7 @@
 ║  SECONDARY   :: SOFTWARE DEVELOPER                           ║
 ║  SPECIALTY   :: AI / ROBOTICS / AUTOMATION                   ║
 ║                                                              ║
-║  SYSTEM STATUS                                                ║
+║  SYSTEM STATUS                                               ║
 ║  ──────────────────────────────────────────────────────────  ║
 ║                                                              ║
 ║  CORE        :: ONLINE     ████████████████████ 100%         ║
